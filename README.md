@@ -1,16 +1,30 @@
-# todolist
+# 📝 Flutter ToDo List App
 
-A new Flutter project.
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-FF4081?style=for-the-badge&logoColor=white)
 
-## Getting Started
+A **simple and fast ToDo List app** built with **Flutter** using **GetX** for state management.  
+This project demonstrates **reactive UI** and **basic CRUD functionality** (Add & Delete tasks).
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- ➕ **Add tasks** quickly  
+- ❌ **Delete tasks** easily  
+- ⚡ **Reactive UI** powered by **GetX** (no `setState` needed)  
+- 🎨 **Simple and intuitive design** for productivity  
+- 📱 **Responsive layout** for multiple screen sizes  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Technologies Used
+
+- **Flutter & Dart** – Cross-platform mobile development  
+- **GetX** – State management, reactive UI, dependency injection  
+- **Flutter Widgets** – ListView, TextField, Buttons, etc.  
+- **Git & GitHub** – Version control and portfolio showcase  
+
+---
+
